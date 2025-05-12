@@ -1,1 +1,6 @@
-[]
+{
+  "allowed_hwids": [
+    "AE252F7E-92BF-D64A-A15F-E1D088270534",
+    "UUID-87654321-DCBA-4321-ABCD-0987654321BA"
+  ]
+}
